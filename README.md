@@ -41,10 +41,18 @@ This dataset contains anonymized credit card transaction records with 30 feature
 
 Includes:
 
-- Class distribution  
-- Amount distribution  
-- Time distribution  
-- Correlation heatmap  
+## - Class distribution
+<img width="738" height="561" alt="image" src="https://github.com/user-attachments/assets/ea6230f0-62bd-427e-8952-6fecfb03c704" />
+
+## - Amount distribution
+  <img width="745" height="567" alt="image" src="https://github.com/user-attachments/assets/2075189c-e060-4b21-aaa8-6b6d3cf44e3c" />
+
+## - Time distribution
+  <img width="745" height="566" alt="image" src="https://github.com/user-attachments/assets/8a297a37-3939-43a7-a00b-8020d023284c" />
+
+## - Correlation heatmap
+<img width="740" height="572" alt="image" src="https://github.com/user-attachments/assets/0b1f10a3-d97e-4832-b246-5821bdd7e577" />
+ 
 
 Key insights are documented within the notebook.
 
@@ -92,6 +100,7 @@ Key insights are documented within the notebook.
 ---
 
 ## 📉 ROC Curve Analysis
+<img width="746" height="652" alt="image" src="https://github.com/user-attachments/assets/bf150671-011b-4bc1-a718-9b1ff52906b6" />
 
 ROC curves are included for:
 
@@ -103,6 +112,7 @@ ROC curves are included for:
 ---
 
 ## ⭐ Feature Importance
+<img width="741" height="480" alt="image" src="https://github.com/user-attachments/assets/ff13db8f-a892-426a-962d-cace27c389f1" />
 
 Feature importance is visualized for:
 
